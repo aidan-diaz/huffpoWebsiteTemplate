@@ -1,6 +1,8 @@
 Huffington Post Template Site
 HTML5, CSS3 - Huffpo Site
 
+![alt text](css/assets/coverImage.png) 
+
 Link to site: https://app.netlify.com/sites/responsivedemosite2/overview
 
 How It's Made:
